@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://tradAndRevlution.shop
+
+# Sitemaps
+Sitemap: https://tradAndRevlution.shop/sitemap.xml
