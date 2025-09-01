@@ -3,7 +3,7 @@ User-agent: *
 Allow: /
 
 # Host
-Host: https://tradAndRevlution.shop
+Host: http://trad-and-revlution.shop
 
 # Sitemaps
-Sitemap: https://tradAndRevlution.shop/sitemap.xml
+Sitemap: http://trad-and-revlution.shop/sitemap.xml
